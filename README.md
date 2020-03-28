@@ -1,9 +1,9 @@
 # hackintosh-catalina-z77-ds3h
 
 ##### spec:
-3.5 GHz Quad-Core Intel Core i7
-16 GB 1333 MHz DDR3
-NVIDIA GeForce GTX 1060 6GB 6 GB
+- 3.5 GHz Quad-Core Intel Core i7
+- 16 GB 1333 MHz DDR3
+- NVIDIA GeForce GTX 1060 6GB 6 GB
 
 ##### upgraded from macOS Sierra
 - use Clover Configurator to mount EFI partition
