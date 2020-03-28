@@ -1,0 +1,1 @@
+# hackintosh-catalina-z77-ds3h
